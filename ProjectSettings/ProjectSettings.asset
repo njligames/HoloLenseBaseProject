@@ -624,7 +624,7 @@ PlayerSettings:
   scriptingDefineSymbols:
     4: 
     7: 
-    14: 
+    14: CVR_XR
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
